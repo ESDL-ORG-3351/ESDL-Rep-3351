@@ -1,10 +1,12 @@
 # include <iostream.h>
+
 using namespace std;
 
-int main()
+int main ()
 {
-  cout << "\n This is 4 stars group!! ";
-  cout << "\n This is a program for organization. ";
+  cout << "\nThis is 4 stars group!! ";
+  cout << "\nWhere is the 5th star??";
+  cout << "\nThis is a program for organization. ";
   
   return 0;
 }
